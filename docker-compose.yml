@@ -4,4 +4,4 @@ services:
     pid: host
     volumes:
       - /mnt/c:/mnt/c:ro
-      - /run:/run:ro
+      - /run/WSL:/run/WSL:ro
